@@ -1,4 +1,4 @@
-pipeline123 {
+pipeline {
     agent any
     stages{
         stage('git cloned'){
